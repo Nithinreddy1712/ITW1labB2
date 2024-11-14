@@ -1,4 +1,5 @@
 # ITW1labB2
-waste
+teja
 nithin
-rithvik
+rajbhushan
+srishanth
